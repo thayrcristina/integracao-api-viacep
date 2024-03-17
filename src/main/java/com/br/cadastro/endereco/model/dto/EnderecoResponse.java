@@ -1,4 +1,4 @@
-package com.br.cadastro.endereco;
+package com.br.cadastro.endereco.model.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
