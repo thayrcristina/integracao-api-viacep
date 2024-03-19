@@ -1,4 +1,4 @@
-FROM openjdk:17-jdk-alpine
+FROM maven:3.8.5-openjdk-17
 RUN mkdir /app
 WORKDIR /app
 COPY target/*.jar /app/app.jar
